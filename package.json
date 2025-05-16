@@ -1,0 +1,17 @@
+{
+  "name": "skillupnodejs",
+  "version": "1.0.0",
+  "description": "This node js application is basically for testing over jenkins . We can run this and expose  sample APIs to test. It requires Express js, Body Parser, mysql dependancies. Simply run index.js to get the application up and running.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
