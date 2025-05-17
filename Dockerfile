@@ -1,9 +1,3 @@
-# FROM node:latest
-# WORKDIR /app
-# COPY myserver.js /app
-# CMD ["node", "myserver.js"]
-# EXPOSE 3030
-
 # Use the official Node.js image
 FROM node:latest
 
